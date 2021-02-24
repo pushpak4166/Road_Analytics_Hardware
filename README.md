@@ -15,7 +15,7 @@
 ### 4) Observation: 
              We observed that NN is performing better than Thresholing algorithm for categorizing the conditions of road.
                      
-So the tflite model is created to for analysing the road index.
+So the tflite model is created for analysing the road index.
 
 
              
