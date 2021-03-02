@@ -1,4 +1,4 @@
-# Road_Analytics_Hardware
+ # Road_Analytics_Hardware
 
 ###  1) Dateset collection: 
    MPU sensor is used with the help of arduino circuitry to collect readings of accelerometer and gyroscope. 
